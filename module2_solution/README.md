@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.io/badhouliaharsh/coursera-test/main/module2_solution/index.html)
+# To see the output [CLICK HERE](https://github.com/badhouliaharsh/coursera-test/main/module2_solution/index.html)
